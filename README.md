@@ -1,2 +1,1 @@
-# Web
-Simple Frontpage for Vestalis
+# FrontPage
